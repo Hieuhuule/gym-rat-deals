@@ -2,6 +2,10 @@ PROJECT TITLE
 
 "Gym Rat Deals" is a platform that allows gyms to make an account and offer exclusive discount codes at no cost to the user.
 
+DEMO LINK:
+
+https://gymratdeals.herokuapp.com/
+
 PROJECT DESCRIPTION
 
 This is a "React-in-Rails" application which allows a Gym to create an account, add their gym in the form of a card to an index of other cards, edit/delete cards they have created, and list their promotions. Users are able to browse the application and view promotion codes on gym cards.
